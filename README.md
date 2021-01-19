@@ -7,6 +7,6 @@ Code Requirements:
 
 Submission Requirements:
   File naming convention 
-  <label><sub_label>.<file_extension> eg: for selection sort coded in C, I will write 1a.c 
+  label<sub_label>.<file_extension> eg: for selection sort coded in C, I will write 1a.c 
   and screenshot to be named as 1a.png
   (if more screenshots of same program you can write <label><sub_label><label_as_roman>.<image_extension>)
